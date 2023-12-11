@@ -1,0 +1,16 @@
+[package]
+name = "maths_function"
+version = "0.0.5"
+edition = "2021"
+authors = ["Suns627<dim_dsmh_s@163.com>"]
+description = "Some maths fuctions"
+readme="readme.txt"
+license = "MIT"
+documentation="https://github.com/Suns627/My-rust-lib/blob/main/documentation.txt"
+homepage="https://github.com/Suns627/My-rust-lib/blob/main/documentation.txt"
+repository="https://github.com/Suns627/My-rust-lib"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
