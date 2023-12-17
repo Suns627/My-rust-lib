@@ -20,7 +20,10 @@ pub mod math_functions {
     }
 }
 
-And use calculate_polygon_vertices:
+And use distance:
 fn main(){
-    println!(calculate_polygon_vertices(6,1,0,0));
+    let ax: i32 = ......;
+    let ......
+    ......
+    println!("{}",distance(ax,ay,bx,by));
 }
